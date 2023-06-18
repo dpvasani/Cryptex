@@ -14,8 +14,20 @@
 <br />
 
 ### Demo Screeshots
+![image](https://github.com/dpvasani/Cryptex/assets/109815626/b5404dbe-eb00-4e2d-9660-313a77c2133d)
 
-![Cryptex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+- Market Update
+![image](https://github.com/dpvasani/Cryptex/assets/109815626/f8b716c0-5420-42d0-9416-f5e4db26f254)
+
+- About Crptex
+![image](https://github.com/dpvasani/Cryptex/assets/109815626/f29eec44-d153-4639-a74e-804ada499ef0)
+
+- How It Works
+![image](https://github.com/dpvasani/Cryptex/assets/109815626/77d88cca-346c-4b54-89fb-a01a7dc06f87)
+
+
+
+
 
 ### Prerequisites
 
@@ -41,8 +53,8 @@ git clone https://github.com/codewithsadee/cryptex.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://twitter.com/vasanidarshan56).
 
 ### License
 
-This project is **free to use** and does not contains any license.
+### All Right Reserved 
