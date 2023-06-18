@@ -1,10 +1,4 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/cryptex)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/cryptex?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/cryptex?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/ux3o7jDhvOc?style=social)](https://youtu.be/ux3o7jDhvOc)
 
   <br />
   <br />
